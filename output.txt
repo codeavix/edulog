@@ -1,0 +1,527 @@
+Script started on Mon Nov 24 00:50:36 2025
+
+==============================
+      WELCOME TO EDULOG
+==============================
+1.Admin Login
+2.Student Login
+3.Exit
+==============================
+Enter your choice: 1
+
+------ ADMIN LOGIN ------
+Enter username: admin
+Enter password: 1234
+
+Login successful!
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:1
+
+Current Students:
+Roll No.	|Name		|Date of birth	|Gender	|Batch	|
+2501		|Aarav Sharma	|25-05-2007	|M	|B1	|
+2502		|Rohan Patel	|15-07-2006	|M	|B1	|
+2503		|Meera Singh	|30-10-2007	|F	|B1	|
+2504		|Palak Gupta	|11-01-2006	|F	|B1	|
+2505		|Aniket Verma	|05-05-2007	|M	|B1	|
+2506		|Priya Mehra	|19-06-2008	|F	|B1	|
+2507		|Sneh Pillai	|26-04-2007	|M	|B1	|
+2508		|Kavya Singla	|29-07-2007	|M	|B1	|
+2509		|Deepak Jain	|03-11-2006	|M	|B1	|
+2510		|Ishan Banerjee	|25-05-2007	|M	|B1	|
+2511		|Hriday Goel	|19-04-2007	|M	|B1	|
+2512		|Apurv Mishra	|17-02-2007	|M	|B1	|
+2513		|Tanvi Aggarwal	|18-05-2007	|F	|B1	|
+2514		|Aayush Jain	|20-08-2007	|M	|B1	|
+2515		|Aarohi Kapoor	|25-09-2007	|F	|B1	|
+2516		|Aditi Gupta	|22-06-2008	|F	|B2	|
+2517		|Veer Singhania	|02-10-2006	|M	|B2	|
+2518		|Nikhil Bansal	|09-01-2008	|M	|B2	|
+2519		|Shubhra Arora	|03-11-2007	|F	|B2	|
+2520		|Manav Gupta	|06-08-2007	|M	|B2	|
+2521		|Tanishk Kaul	|23-09-2007	|M	|B2	|
+2522		|Aryan Sethi	|04-02-2007	|M	|B2	|
+2523		|Mahima Prasad	|12-07-2007	|F	|B2	|
+2524		|Rudra Sharma	|05-02-2008	|M	|B2	|
+2525		|Palak Bansal	|18-03-2007	|F	|B2	|
+2526		|Kartik Kasana	|22-09-2007	|M	|B2	|
+2527		|Arjun Bhatt	|29-08-2006	|M	|B2	|
+2528		|Ritesh Verma	|09-09-2007	|M	|B2	|
+2529		|Ridhima Singh	|14-04-2007	|F	|B2	|
+2530		|Aarush Malik	|01-01-2007	|M	|B2	|
+2531		|Harsh Tiwari	|12-03-2006	|M	|B3	|
+2532		|Yuvraj Ahuja	|19-07-2007	|M	|B3	|
+2533		|Ayush Pandey	|21-10-2006	|M	|B3	|
+2534		|Krish Patel	|07-02-2008	|M	|B3	|
+2535		|Avni Gupta	|28-04-2007	|F	|B3	|
+2536		|Navya Chopra	|12-08-2007	|F	|B3	|
+2537		|Myra Singh	|25-09-2007	|F	|B3	|
+2538		|Isha Shukla	|03-03-2007	|F	|B3	|
+2539		|Krish Malik	|30-07-2006	|M	|B3	|
+2540		|Adarsh Reddy	|19-03-2006	|M	|B3	|
+2541		|Devansh Sharma	|01-08-2007	|M	|B3	|
+2542		|Sanya Kapoor	|15-02-2008	|F	|B3	|
+2543		|Yash Garg	|07-11-2006	|M	|B3	|
+2544		|Arush Garg	|11-10-2007	|M	|B3	|
+2545		|Utkarsh Sinha	|25-05-2006	|M	|B3	|
+2546		|Naman Goel	|06-12-2006	|M	|B4	|
+2547		|Manasvi Jain	|28-12-2007	|F	|B4	|
+2548		|Pragya Verma	|04-04-2006	|F	|B4	|
+2549		|Dhriti Yadav	|15-11-2007	|F	|B4	|
+2550		|Dev Malhotra	|10-01-2007	|M	|B4	|
+2551		|Nakul Pandey	|17-05-2007	|M	|B4	|
+2552		|Aryan Yadav	|12-12-2006	|M	|B4	|
+2553		|Simran Kaur	|14-04-2006	|F	|B4	|
+2554		|Moksh Kwatra	|23-03-2007	|M	|B4	|
+2555		|Aditya Garg	|22-02-2008	|M	|B4	|
+2556		|Namrata Yadav	|30-08-2006	|F	|B4	|
+2557		|Isha Sharma	|31-06-2007	|F	|B4	|
+2558		|Raghav Malik	|21-09-2006	|M	|B4	|
+2559		|Vaibhav Mittal	|14-03-2007	|M	|B4	|
+2560		|Alisha Khan	|10-09-2007	|F	|B4	|
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:2
+Enter roll no. to search:2544
+
+Record Found:
+2544	Arush Garg	11-10-2007	M	B3
+BEL marks:- 41.000000
+Maths marks:- 29.000000
+Physics marks:- 23.000000
+SDF marks:- 23.000000
+CGPA:-1.25
+Status:-BACK
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:3
+
+Roll no.   : 2561
+Name       : Palak Bansal
+DOB        : 18-03-2007
+Gender     : F
+Batch      : B2
+
+Enter marks for BEL (Internal, Midsem, Endsem): 27 22 38
+Enter marks for Maths (Internal, Midsem, Endsem): 22 26 40
+Enter marks for Physics (Internal, Midsem, Endsem): 22 26 35
+Enter marks for SDF (Internal, Midsem, Endsem): 27 24 35
+Marks added
+Student added successfully
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:4
+Enter roll no. to delete:-2561
+Record deleted successfully.
+marks deleted successfully.
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:5
+Enter roll number: 2543
+Modifying marks for roll no. 2543
+Enter BEL marks(Internal Midsem Endsem): 24 22 37
+Enter Maths marks(Internal Midsem Endsem): 26 26 40
+Enter Physics marks(Internal Midsem Endsem): 22 26 34
+Enter SDF marks(Internal Midsem Endsem): 28 24 33
+Marks updated successfully.
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:6
+
+===================== TOPPERS LIST =====================
+Roll     Name                 DOB          Batch    CGPA 
+---------------------------------------------------------
+2518     Nikhil Bansal        09-01-2008   B2       10.00
+2541     Devansh Sharma       01-08-2007   B3       10.00
+2535     Avni Gupta           28-04-2007   B3       9.75 
+2520     Manav Gupta          06-08-2007   B2       9.50 
+2526     Kartik Kasana        22-09-2007   B2       9.25 
+2555     Aditya Garg          22-02-2008   B4       9.25 
+2529     Ridhima Singh        14-04-2007   B2       9.00 
+2547     Manasvi Jain         28-12-2007   B4       9.00 
+2503     Meera Singh          30-10-2007   B1       9.00 
+2558     Raghav Malik         21-09-2006   B4       9.00 
+2508     Kavya Singla         29-07-2007   B1       8.75 
+2523     Mahima Prasad        12-07-2007   B2       8.75 
+2525     Palak Bansal         18-03-2007   B2       8.75 
+2513     Tanvi Aggarwal       18-05-2007   B1       8.75 
+2501     Aarav Sharma         25-05-2007   B1       8.75 
+2560     Alisha Khan          10-09-2007   B4       8.75 
+---------------------------------------------------------
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:7
+
+====================== PASS LIST ======================
+Roll     Name                 DOB          Batch    CGPA 
+--------------------------------------------------------
+2501     Aarav Sharma         25-05-2007   B1       8.75 
+2502     Rohan Patel          15-07-2006   B1       6.25 
+2503     Meera Singh          30-10-2007   B1       9.00 
+2504     Palak Gupta          11-01-2006   B1       7.25 
+2505     Aniket Verma         05-05-2007   B1       6.00 
+2506     Priya Mehra          19-06-2008   B1       8.50 
+2507     Sneh Pillai          26-04-2007   B1       6.00 
+2508     Kavya Singla         29-07-2007   B1       8.75 
+2510     Ishan Banerjee       25-05-2007   B1       8.00 
+2511     Hriday Goel          19-04-2007   B1       7.00 
+2512     Apurv Mishra         17-02-2007   B1       8.00 
+2513     Tanvi Aggarwal       18-05-2007   B1       8.75 
+2514     Aayush Jain          20-08-2007   B1       5.50 
+2515     Aarohi Kapoor        25-09-2007   B1       6.75 
+2516     Aditi Gupta          22-06-2008   B2       8.50 
+2517     Veer Singhania       02-10-2006   B2       7.75 
+2518     Nikhil Bansal        09-01-2008   B2       10.00
+2519     Shubhra Arora        03-11-2007   B2       6.00 
+2520     Manav Gupta          06-08-2007   B2       9.50 
+2522     Aryan Sethi          04-02-2007   B2       7.75 
+2523     Mahima Prasad        12-07-2007   B2       8.75 
+2525     Palak Bansal         18-03-2007   B2       8.75 
+2526     Kartik Kasana        22-09-2007   B2       9.25 
+2528     Ritesh Verma         09-09-2007   B2       7.25 
+2529     Ridhima Singh        14-04-2007   B2       9.00 
+2531     Harsh Tiwari         12-03-2006   B3       7.75 
+2532     Yuvraj Ahuja         19-07-2007   B3       6.50 
+2534     Krish Patel          07-02-2008   B3       6.50 
+2535     Avni Gupta           28-04-2007   B3       9.75 
+2537     Myra Singh           25-09-2007   B3       7.00 
+2538     Isha Shukla          03-03-2007   B3       7.00 
+2541     Devansh Sharma       01-08-2007   B3       10.00
+2543     Yash Garg            07-11-2006   B3       8.25 
+2545     Utkarsh Sinha        25-05-2006   B3       7.00 
+2546     Naman Goel           06-12-2006   B4       8.25 
+2547     Manasvi Jain         28-12-2007   B4       9.00 
+2548     Pragya Verma         04-04-2006   B4       7.75 
+2549     Dhriti Yadav         15-11-2007   B4       6.50 
+2550     Dev Malhotra         10-01-2007   B4       8.00 
+2551     Nakul Pandey         17-05-2007   B4       7.50 
+2552     Aryan Yadav          12-12-2006   B4       8.00 
+2553     Simran Kaur          14-04-2006   B4       7.25 
+2555     Aditya Garg          22-02-2008   B4       9.25 
+2557     Isha Sharma          31-06-2007   B4       6.50 
+2558     Raghav Malik         21-09-2006   B4       9.00 
+2560     Alisha Khan          10-09-2007   B4       8.75 
+--------------------------------------------------------
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:8
+
+===================== FAIL LIST (BACK) =====================
+Roll     Name                 DOB          Batch    CGPA 
+------------------------------------------------------------
+2509     Deepak Jain          03-11-2006   B1       1.50 
+2521     Tanishk Kaul         23-09-2007   B2       2.50 
+2524     Rudra Sharma         05-02-2008   B2       2.75 
+2527     Arjun Bhatt          29-08-2006   B2       4.00 
+2530     Aarush Malik         01-01-2007   B2       2.75 
+2533     Ayush Pandey         21-10-2006   B3       4.75 
+2536     Navya Chopra         12-08-2007   B3       1.25 
+2539     Krish Malik          30-07-2006   B3       6.25 
+2540     Adarsh Reddy         19-03-2006   B3       5.50 
+2542     Sanya Kapoor         15-02-2008   B3       2.50 
+2544     Arush Garg           11-10-2007   B3       1.25 
+2554     Moksh Kwatra         23-03-2007   B4       2.25 
+2556     Namrata Yadav        30-08-2006   B4       3.25 
+2559     Vaibhav Mittal       14-03-2007   B4       1.75 
+------------------------------------------------------------
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:9
+
+====================== SUBJECT TOPPERS ======================
+Subject      Roll     Name                 DOB          Batch    Marks
+---------------------------------------------------------------
+BEL          2535     Avni Gupta           28-04-2007   B3       100.0
+Maths        2558     Raghav Malik         21-09-2006   B4       100.0
+Physics      2538     Isha Shukla          03-03-2007   B3       99.0 
+SDF          2518     Nikhil Bansal        09-01-2008   B2       99.0 
+---------------------------------------------------------------
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:10
+
+CLASS STATISTICS
+
+BEL:
+Mean: 70.23
+Median: 75.50
+Mode: 36.00
+
+Maths:
+Mean: 68.35
+Median: 74.50
+Mode: 49.00
+
+Physics:
+Mean: 66.27
+Median: 69.50
+Mode: 42.00
+
+SDF:
+Mean: 67.57
+Median: 71.50
+Mode: 44.00
+
+--------------------
+
+---- ADMIN MENU ----
+1.Display all students
+2.Search student
+3.Add Student
+4.Delete Student
+5.Modify marks
+6.Get toppers list
+7.Get Pass list
+8.Get fail list
+9.Get Subject toppers list
+10.show class stats11.Exit
+Enter your choice:11
+
+Thank you for using EduLog!
+
+==============================
+      WELCOME TO EDULOG
+==============================
+1.Admin Login
+2.Student Login
+3.Exit
+==============================
+Enter your choice: 2
+
+=========================
+       STUDENT LOGIN
+=========================
+Enter Enrollment Number: 2501
+Enter DOB (dd-mm-yyyy): 25-05-2007
+
+Login Successful! Welcome,Aarav Sharma
+===========================================================
+		    STUDENT MENU
+===========================================================
+
+1.personal details
+2.Report card
+3.Topper's list
+4.Pass list
+5.Fail list
+6.EXIT
+Enter your choice : 1
+
+===========================================================
+		  PERSONAL DETAILS
+===========================================================
+Roll Number: 2501
+Name: Aarav Sharma
+DOB: 25-05-2007
+Gender: M
+Batch: B1
+===========================================================
+Enter your choice : 2
+===========================================================
+                      REPORT CARD
+===========================================================
+ENROLLMENT NUMBER  : 2501
+NAME               : Aarav Sharma
+DATE OF BIRTH      : 25-05-2007
+GENDER             : M
+BATCH              : B1
+-----------------------------------------------------------
+Subject         Marks      Grade     
+-----------------------------------------------------------
+BEL             90.0       A         
+Maths           90.0       A         
+Physics         87.0       B+        
+SDF             96.0       A         
+-----------------------------------------------------------
+CGPA : 8.75	STATUS : PASS
+-----------------------------------------------------------
+Enter your choice : 3
+
+===================== TOPPERS LIST =====================
+Roll     Name                 DOB          Batch    CGPA 
+---------------------------------------------------------
+2518     Nikhil Bansal        09-01-2008   B2       10.00
+2541     Devansh Sharma       01-08-2007   B3       10.00
+2535     Avni Gupta           28-04-2007   B3       9.75 
+2520     Manav Gupta          06-08-2007   B2       9.50 
+2526     Kartik Kasana        22-09-2007   B2       9.25 
+2555     Aditya Garg          22-02-2008   B4       9.25 
+2529     Ridhima Singh        14-04-2007   B2       9.00 
+2547     Manasvi Jain         28-12-2007   B4       9.00 
+2503     Meera Singh          30-10-2007   B1       9.00 
+2558     Raghav Malik         21-09-2006   B4       9.00 
+2508     Kavya Singla         29-07-2007   B1       8.75 
+2523     Mahima Prasad        12-07-2007   B2       8.75 
+2525     Palak Bansal         18-03-2007   B2       8.75 
+2513     Tanvi Aggarwal       18-05-2007   B1       8.75 
+2501     Aarav Sharma         25-05-2007   B1       8.75 
+2560     Alisha Khan          10-09-2007   B4       8.75 
+---------------------------------------------------------
+Enter your choice : 4
+
+====================== PASS LIST ======================
+Roll     Name                 DOB          Batch    CGPA 
+--------------------------------------------------------
+2501     Aarav Sharma         25-05-2007   B1       8.75 
+2502     Rohan Patel          15-07-2006   B1       6.25 
+2503     Meera Singh          30-10-2007   B1       9.00 
+2504     Palak Gupta          11-01-2006   B1       7.25 
+2505     Aniket Verma         05-05-2007   B1       6.00 
+2506     Priya Mehra          19-06-2008   B1       8.50 
+2507     Sneh Pillai          26-04-2007   B1       6.00 
+2508     Kavya Singla         29-07-2007   B1       8.75 
+2510     Ishan Banerjee       25-05-2007   B1       8.00 
+2511     Hriday Goel          19-04-2007   B1       7.00 
+2512     Apurv Mishra         17-02-2007   B1       8.00 
+2513     Tanvi Aggarwal       18-05-2007   B1       8.75 
+2514     Aayush Jain          20-08-2007   B1       5.50 
+2515     Aarohi Kapoor        25-09-2007   B1       6.75 
+2516     Aditi Gupta          22-06-2008   B2       8.50 
+2517     Veer Singhania       02-10-2006   B2       7.75 
+2518     Nikhil Bansal        09-01-2008   B2       10.00
+2519     Shubhra Arora        03-11-2007   B2       6.00 
+2520     Manav Gupta          06-08-2007   B2       9.50 
+2522     Aryan Sethi          04-02-2007   B2       7.75 
+2523     Mahima Prasad        12-07-2007   B2       8.75 
+2525     Palak Bansal         18-03-2007   B2       8.75 
+2526     Kartik Kasana        22-09-2007   B2       9.25 
+2528     Ritesh Verma         09-09-2007   B2       7.25 
+2529     Ridhima Singh        14-04-2007   B2       9.00 
+2531     Harsh Tiwari         12-03-2006   B3       7.75 
+2532     Yuvraj Ahuja         19-07-2007   B3       6.50 
+2534     Krish Patel          07-02-2008   B3       6.50 
+2535     Avni Gupta           28-04-2007   B3       9.75 
+2537     Myra Singh           25-09-2007   B3       7.00 
+2538     Isha Shukla          03-03-2007   B3       7.00 
+2541     Devansh Sharma       01-08-2007   B3       10.00
+2543     Yash Garg            07-11-2006   B3       8.25 
+2545     Utkarsh Sinha        25-05-2006   B3       7.00 
+2546     Naman Goel           06-12-2006   B4       8.25 
+2547     Manasvi Jain         28-12-2007   B4       9.00 
+2548     Pragya Verma         04-04-2006   B4       7.75 
+2549     Dhriti Yadav         15-11-2007   B4       6.50 
+2550     Dev Malhotra         10-01-2007   B4       8.00 
+2551     Nakul Pandey         17-05-2007   B4       7.50 
+2552     Aryan Yadav          12-12-2006   B4       8.00 
+2553     Simran Kaur          14-04-2006   B4       7.25 
+2555     Aditya Garg          22-02-2008   B4       9.25 
+2557     Isha Sharma          31-06-2007   B4       6.50 
+2558     Raghav Malik         21-09-2006   B4       9.00 
+2560     Alisha Khan          10-09-2007   B4       8.75 
+--------------------------------------------------------
+Enter your choice : 5
+====================== SUBJECT TOPPERS ======================
+Subject      Roll     Name                 DOB          Batch    Marks
+---------------------------------------------------------------
+BEL          2535     Avni Gupta           28-04-2007   B3       100.0
+Maths        2558     Raghav Malik         21-09-2006   B4       100.0
+Physics      2538     Isha Shukla          03-03-2007   B3       99.0 
+SDF          2518     Nikhil Bansal        09-01-2008   B2       99.0 
+---------------------------------------------------------------
+Enter your choice : 6
+
+Exiting...
+
+Script done on Mon Nov 24 00:53:17 2025
